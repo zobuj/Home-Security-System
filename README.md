@@ -15,11 +15,24 @@
     <img src="figures/ifconfig.jpeg" width="400" />
 </div>
 
-## Face Detection 
+## Model Architecture
+
+<div style="display: flex;">
+    <img src="figures/inception_a.png" style="width: 33%;" />
+    <img src="figures/inception_b.png" style="width: 33%;" />
+    <img src="figures/inception_c.png" style="width: 33%;" />
+</div>
+<div style="display: flex;">
+    <img src="figures/inception_resnet_overview.png" style="width: 100%;" />
+
+</div>
+
+
+## Facial Detection 
 #### Cropping and Bounding
-<div style="display:flex; flex-direction: row;">
-    <img src="figures/bounarybox.jpeg" width="400" />
-    <img src="figures/junhao.jpeg" width="400" />
+<div style="display: flex;">
+    <img src="figures/bounarybox.jpeg" style="width: 40%;" />
+    <img src="figures/junhao.jpeg" style="width: 50%;" />
 </div>
 
 ## Object Detection
