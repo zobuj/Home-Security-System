@@ -3,13 +3,27 @@
 #### Disclaimer: We had code across many devices, and we compiled the more relevant information into this repository.
 
 
-
+## Summary
 * Engineered a robust IoT network, incorporating advanced cryptographic measures for enhanced data integrity and confidentiality. Leveraged cloud services and mobile interfaces to facilitate intelligent access control and provide real-time user notifications. Utilized AWS IoT core and MQTT protocol’s publisher/subscriber methodology to streamline secure, efficient communication.
 * Implemented state-of-the-art object detection and facial recognition models using Inception ResNet and EfficientNet architectures on Raspberry Pis. Automated real-time identity verification and access decisions by cross-referencing detected identities with an AWS SQL server database.
 * Established communication between various components including Raspberry Pi edge nodes, NVIDIA Jetson Nano sink node, AWS Lambda functions, and user’s mobile devices, while managing a solenoid lock mechanism via relay signals to ensure secure and efficient system functionality.
 
+## Setup
+#### Raspberry Pi Configuration
+<div style="display:flex; flex-direction: row;">
+    <img src="figures/cpuinfo.jpeg" width="400" />
+    <img src="figures/ifconfig.jpeg" width="400" />
+</div>
 
-![boundarybox](figures/bounarybox.jpeg)
+## Face Detection 
+#### Cropping and Bounding
+<div style="display:flex; flex-direction: row;">
+    <img src="figures/bounarybox.jpeg" width="400" />
+    <img src="figures/junhao.jpeg" width="400" />
+</div>
+
+## Object Detection
+![lorenzo](figures/takenImage.png)
 
 #### Academic Integrity: 
 
