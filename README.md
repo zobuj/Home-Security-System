@@ -9,7 +9,7 @@
 * Established communication between various components including Raspberry Pi edge nodes, NVIDIA Jetson Nano sink node, AWS Lambda functions, and user’s mobile devices, while managing a solenoid lock mechanism via relay signals to ensure secure and efficient system functionality.
 
 
-
+![boundarybox](figures/bounarybox.jpeg)
 
 #### Academic Integrity: 
 
