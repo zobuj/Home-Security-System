@@ -40,14 +40,6 @@
     <img src="figures/parameters.jpeg" style="width: 100%;" />
 </div>
 
-## Facial Detection 
-
-#### Cropping and Bounding
-
-<div style="display: flex;">
-    <img src="figures/bounarybox.jpeg" style="width: 40%;" />
-    <img src="figures/junhao.jpeg" style="width: 50%;" />
-</div>
 
 
 
