@@ -50,10 +50,6 @@
 </div>
 
 
-## Object Detection
-
-![lorenzo](figures/takenImage.png)
-
 
 ## Electric Door Schematic
 ![schematic](figures/schematic.jpeg)
